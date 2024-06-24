@@ -13,6 +13,11 @@ int main()
 	{
 		return number1 + number2; 
 	}
+
+	float Sub(float number1, float number2)
+	{
+		return number1 - number2;
+	}
 	
 	return 0;
 }
